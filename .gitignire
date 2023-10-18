@@ -1,0 +1,11 @@
+.idea
+.idea/
+venv
+venv/
+.venv/
+log
+logs
+*.log
+*.logs
+log/
+logs/
